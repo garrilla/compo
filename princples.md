@@ -1,4 +1,4 @@
-## Principles
+## Principles of Quartz
 
 This document is an evolving set of princples for the design of **Quartz** compenents for **Meteor JS**
 
