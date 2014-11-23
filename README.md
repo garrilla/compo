@@ -1,4 +1,4 @@
-quartz
+Quartz
 ======
 
-a collection of resuable, reactive components for Meteor JS
+a collection of resuable, reactive components for Meteor JS that are developed under an aegis of princples
