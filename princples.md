@@ -33,7 +33,7 @@ Each component should be created as package within the **Meteor JS** so there is
 ###Unlimited depdendecies
 
 Compenent packages can be dependent on unlmited number other packages or **Npm modules** for any numbers of tiers of dependence
-> this is potentially an area where the *princple of no conflict* could be of importance, for example a component could not be dependent on package that is styled for bootstrap-3 because this would conflict with the princple of framework agnostic
+> this is potentially an area where the *princple of no conflict* could be of importance, for example a component could not be dependent on package that is styled for bootstrap-3 because this would conflict with the *princple of framework agnostic*
 
 ###Declared dependecies
 
