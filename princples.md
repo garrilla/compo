@@ -24,7 +24,7 @@ All components should be reactive, using the defaultt **Meteor JS** code syntax 
 
 ###Framework Agnostic
 
-**Quartz** components should be framework agnostic, but where practicable, should be styleable through the *quartz* template block
+**Quartz** components should be framework agnostic, but where practicable, should be styleable through the *quartz* template block. To use a framework with quartz, it should be forked and this principle should be abrogated from the fork, and the naming should reflect this as such, e.g `quartz-semantic-ui:menu`, 
 
 ###Packagable
 
